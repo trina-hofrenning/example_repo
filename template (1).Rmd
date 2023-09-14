@@ -2,7 +2,7 @@
 title: "Simple document"
 name: "Trina Hofrenning"
 date: "2023-09-12"
-output: html_document
+output: github_document
 ---
 
 ```{r, echo = FALSE, messge = FALSE}
