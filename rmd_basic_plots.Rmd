@@ -1,8 +1,10 @@
 ---
 title: "Basic Plots"
 author: "Jeff Goldsmith"
-date: 2019-09-10
-output: html_document
+date: '2019-09-10'
+output:
+  github_document:
+    df_print: paged
 ---
 
 ```{r setup, include = FALSE}
